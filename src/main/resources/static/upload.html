@@ -1,0 +1,66 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<!--
+    upload.html (page to submit locations to GeoSyncra website)
+    ceg411
+    Anna Crafton
+    last updated 10/24/2024
+-->
+
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <link rel="stylesheet" type="text/css" href="css/styles.css"/>
+    <script src="js/script.js"></script>
+    <title>Upload Image</title>
+</head>
+
+<body>
+<section id="Main">
+    <!-- Nav Bar -->
+    <nav>
+        <a href="index.html">Home</a> &nbsp; | &nbsp;
+        <a href="login.html">Login</a> &nbsp; | &nbsp;
+        <a href="viewpage.html">Viewpage</a> &nbsp; | &nbsp;
+        <a href="upload.html">Upload</a>
+    </nav>
+
+    <!-- Main Section -->
+    <main>
+        <header>
+            <h3>Upload Image and Data</h3>
+        </header>
+
+        <!-- Upload Form -->
+        <div id="uploadForm">
+            <fieldset>
+                <legend>Upload:</legend>
+
+                <label for="locationName">Location Name:</label>
+                <input type="text" id="locationName" name="locationName" required><br><br>
+
+                <label for="description">Description:</label>
+                <input type="text" id="description" name="description" required><br><br>
+
+                <label for="location">Location:</label>
+                <input type="text" id="location" name="location" required><br><br>
+
+                <label for="photo">Photo:</label>
+                <input type="file" id="photo" name="photo" accept="image/*" required><br><br>
+
+                <button type="submit" onclick="uploadImage(event)">Upload</button>
+            </fieldset>
+
+            <p id="uploadStatus"></p>
+        </div>
+    </main>
+
+    <!-- Footer -->
+    <footer>
+        <h>&copy; 2024 Team07</h>
+    </footer>
+</section>
+</body>
+
+</html>

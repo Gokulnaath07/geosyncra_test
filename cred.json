@@ -1,0 +1,13 @@
+{
+  "type": "service_account",
+  "project_id": "geosyncra-uploads",
+  "private_key_id": "f554e41b87d752876b2d3f54b0d58464e77e9f1a",
+  "private_key": "-----BEGIN PRIVATE KEY-----\nMIIEvQIBADANBgkqhkiG9w0BAQEFAASCBKcwggSjAgEAAoIBAQC0GnHRqOyIUbJ7\n0Khi4DlT/K0xKufSGRROe/l5B2Hup6NLBu60W5QAH6b9SjFeofYHSiWLmSd9cI/Y\nO90NtJQyFTSgXRUOnoSa9YMmWJ51IDkCpK0kOPK7pEGZqtRECYV3ansxqhMrGibn\n8FFmHzx8KqR+rC1EdjKpzxUlL7eYcoHGLgMem4cBmv4aLu1r45/fgBnpckf/JeG9\nnIqWawsxDEB1cpMMiD9sj0byfoqZT7kKy5OjlIsPbSayYRe4mFOjyLFoeLf/9UpR\nV1zi7AipwDMW80cM1NaXG1Dx6LylsjEcnnqrEuBkt8sZdjd1Rmng+wd0XlE5BN6z\nF4Sudb1NAgMBAAECggEAGh0Adj/6JazExneDRqzQmxkWinu4V4nb3CJVEmOL40TK\npBj5+MwTai4ssep1PI2apMVvKq224FT3AkjxvOg7GYTiF8NPR4qb2vTwglmUhhJ5\nOaUjVo5sQWEoQs3WT5Qa1izp9lI8y8HTtMrvHnG2fSFYruYrfRLvNxhHrlfcFJ38\ntlo5hHgs3FrmBRWQD9BjjjpDERHJ/2/1ikINw/sByHCN8eDb2l8Nxi3GJWnRmEml\nTxKJym9POcmpKk8rqyGHazbDL/PIytN+OownkdmJqltl/rTtlXTpR2tmP4EYSDDB\nKI6FGDKJjCZtE6ltCK/EOb4a3SXsI3oAp3c0DIeKQQKBgQD5LQWUuOCQUhuF+1ZH\nsRpYCM57LkMgPELUGOwtt3+5zceZcx9bpTNBlBlPpFZXA+PUmzzmBg8qmKX/KNE7\nNxRy93wfISEnou48Lgkgo9mORScTqkfVW20NZTtByeTC72yp3ngd7PvhbDrju4/4\nLfmO/c03/rP3bhKCFuGeopK1jQKBgQC5CSc/1NYlGOk5Av5qKpsstLgsGFfhrMhz\nHg/xKOfBLksIpSDFGa1XM9meZR5SF2swc1wxyCOR6VqysfG2LJr1PiAzxwJpC/mC\nWMXsm9O9Jhmdc5vszY1ZSVl4kn9Ntoo+z25Z692hzAQKVy8tiqUD2dd7W0Teqx5v\nBnTHSzPWwQKBgQCnjKKIEpjN8qgXO54Urv3r3GAbbEwuzNaTD/8f7pewNLLWeBbJ\n5RfGLPOoHfUApdj5CTm14rUoC2TzYlru2maht9B6jihhIqnXRY1VqVeM1usjyghr\nawK1UzC5WCy+94e14aYbWVM1jTU8FM8GLsP0Zq0rzdTtt9IyL3ie1uqXsQKBgBDB\nAWrILLOjM8rTuJGIVhCQNHTZp2tpp6S0viDJ4WIefPDFctgl4QoaScQLx9kLAcub\nRmfDhWT6yhmP/yDNnSJDg8rsZA165halTxaDbYKc5ojZJO8mFXxWJeHC8f/pXU8e\nnRFLSAAUZvFAv6bR/OsCWH503yGCQPkwjnZVGtaBAoGAG0WgPvLILvNWyFIQEFL+\ne1TDQi3CeNzcdFttJ7+6jn6hMqJOCPySciELBztJ57Ec4gKP3Wy2P2agkHWE6eBT\nFtj2SFmAl1YzD+CyfcLL66pFI3oW/r+DVJ+v6whiIlKpeRLAgFlxFXFrfwh2slTX\nRESmRWfOa3shC1aNqAVhEg4=\n-----END PRIVATE KEY-----\n",
+  "client_email": "geosyncruploads@geosyncra-uploads.iam.gserviceaccount.com",
+  "client_id": "107228378680901397155",
+  "auth_uri": "https://accounts.google.com/o/oauth2/auth",
+  "token_uri": "https://oauth2.googleapis.com/token",
+  "auth_provider_x509_cert_url": "https://www.googleapis.com/oauth2/v1/certs",
+  "client_x509_cert_url": "https://www.googleapis.com/robot/v1/metadata/x509/geosyncruploads%40geosyncra-uploads.iam.gserviceaccount.com",
+  "universe_domain": "googleapis.com"
+}

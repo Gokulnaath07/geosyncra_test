@@ -1,0 +1,90 @@
+/*
+    styles.css (for GeoSyncra)
+    Ceg4100
+    Anna Crafton
+    Last Updated 10/3/2024
+
+*/
+
+/*
+    Current ColorScheme:
+    Links #fb8500
+    background #8ecae6
+    dark tone #023047
+    middle tone #219ebc
+    bright tone #ffb703
+
+*/
+
+/*
+    Notes:
+
+    This is NOT DONE!
+
+*/
+
+
+/*Style the Header*/
+header {
+
+    background-color: #023047;
+    color:#ffffff;
+    text-align: center;
+    height: 2em;
+    width: 100%;
+    font-size: xx-large;
+    line-height: normal;
+    font-family:'Times New Roman', Times, serif;
+    margin:0%;
+
+}
+
+/*fix gap between nav bar and header*/
+header h3 {
+
+    margin-top: 0;
+
+}
+
+/*Style the Background for the Section*/
+section {
+
+
+    background-color: aliceblue;
+    color: black;
+    font-family: 'Times New Roman', Times, serif;
+    line-height: 150%;
+    width: 80%;
+    margin: 0;
+
+
+}
+
+/* Style the nav bar */
+nav {
+
+    list-style-type: none;
+    background-color: #023047;
+    color:#fb8500;
+    padding: 10px;
+    text-align: center;
+    width: 100%;
+
+}
+
+/*Stops the links in nav from changing color when clicked*/
+a {
+
+    color: inherit;
+    text-decoration: none;
+}
+
+/*Style the main section*/
+main {
+
+    padding: 20px;
+    background-color: #fff;
+    margin: 20px auto;
+    max-width: 85%;
+
+}

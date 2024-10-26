@@ -1,0 +1,67 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<!--
+    index.html (home page for GeoSyncra website)
+    ceg411
+    Anna Crafton
+    last updated 10/3/2024
+-->
+
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <link rel="stylesheet" type="text/css" href="css/styles.css"/>
+    <script src="js/script.js"></script>
+    <title>GeoSyncra Home</title>
+</head>
+
+<body onload="setTime()">
+<section>
+    <!-- Nav Bar -->
+    <nav>
+        <a href="index.html">Home</a> &nbsp; | &nbsp;
+        <a href="login.html">Login</a> &nbsp; | &nbsp;
+        <a href="viewpage.html">Viewpage</a> &nbsp; | &nbsp;
+        <a href="upload.html">Upload</a>
+    </nav>
+
+    <!-- Main Section -->
+    <main>
+        <!-- Header with Random Location Image (Placeholder for now) -->
+        <header>
+            <h3>GeoSyncra</h3>
+        </header>
+
+        <!-- Fancy Upload Button -->
+        <div class="uploadButton">
+            <a href="upload.html">Upload Image</a>
+        </div>
+
+        <!-- Random Image Placeholder -->
+        <article>
+            <img src="photos/dummyPhoto.jpg" alt="dummyPhoto">
+        </article>
+
+        <!-- Clock Display -->
+        <article>
+            <span id="clock">The time will go here</span>
+        </article>
+
+        <!-- Search Bar for Locations -->
+        <article>
+            <form action="">
+                <input type="text" id="searchBar" placeholder="Search...">
+                <button type="button" onclick="searchLocation()">Search</button>
+            </form>
+        </article>
+    </main>
+
+    <!-- Footer -->
+    <footer>
+        <h>&copy; 2024 Team07</h>
+    </footer>
+</section>
+</body>
+
+</html>
